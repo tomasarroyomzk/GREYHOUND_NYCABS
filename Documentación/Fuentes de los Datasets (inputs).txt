@@ -1,0 +1,118 @@
+# FUENTES DE LOS DATOS
+
+# TAXIS
+# AÑOS: 2019 , 2020 , 2021 , 2022
+# MESES: 03 , 08 , 12
+
+# Taxis amarillos 2019 
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-12.parquet"
+
+# Taxis amarillos 2020
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-12.parquet"
+
+# Taxis amarillos 2021
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-12.parquet"
+
+# Taxis amarillos 2022
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-12.parquet"
+
+# Taxis verdes 2019
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-12.parquet"
+
+# Taxis verdes 2020
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-12.parquet"
+
+# Taxis verdes 2021
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-12.parquet"
+
+# Taxis verdes 2022
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-03.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-08.parquet"
+url = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-12.parquet"
+
+#CALIDAD DEL AIRE (api)
+# AÑOS: 2021 , 2022
+# MESES: 03 , 08 , 12]
+
+# PM2.5 (Partículas finas)
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20210304&edate=20210310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20210804&edate=20210810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20211219&edate=20211226&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20220304&edate=20220310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20220804&edate=20220810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20221219&edate=20221226&duration=1&state=36&county=081
+
+# SO2
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42401&bdate=20210304&edate=20210310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42401&bdate=20210804&edate=20210810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42401&bdate=20211219&edate=20211226&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42401&bdate=20220304&edate=20220310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42401&bdate=20220804&edate=20220810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42401&bdate=20221219&edate=20221226&duration=1&state=36&county=081
+
+# CO
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42101&bdate=20210304&edate=20210310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42101&bdate=20210804&edate=20210810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42101&bdate=20211219&edate=20211226&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42101&bdate=20220304&edate=20220310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42101&bdate=20220804&edate=20220810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42101&bdate=20221219&edate=20221226&duration=1&state=36&county=081
+
+# NO2
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42602&bdate=20210304&edate=20210310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42602&bdate=20210804&edate=20210810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42602&bdate=20211219&edate=20211226&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42602&bdate=20220304&edate=20220310&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42602&bdate=20220804&edate=20220810&duration=1&state=36&county=081
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=42602&bdate=20221219&edate=20221226&duration=1&state=36&county=081
+
+
+#CONTAMINACIÓN AUDITIVA
+# AÑOS: 2019 (el año más actual)
+# MESES: 03 , 08 , 12]
+
+https://aqs.epa.gov/data/api/sampleData/byCounty?email=rodrigodavid.1993@gmail.com&key=greymallard41&param=88502&bdate=20210304&edate=20210310&duration=1&state=36&county=081
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
