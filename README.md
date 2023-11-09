@@ -1,5 +1,3 @@
-# ProyectoGrupalHENRY
- Análisis de taxis en NYC 
 # Proyecto de Análisis Ambiental para Greyhound
 
 ## Propuesta de Negocio
@@ -30,7 +28,37 @@ Nuestro objetivo principal es brindar a Greyhound información valiosa para la t
    - **Dashboard Ambiental:** Crearemos un dashboard interactivo que visualice el impacto ambiental y la rentabilidad del negocio.
    - **Modelo de Machine Learning:** Desarrollaremos un modelo predictivo que permita a Greyhound anticipar escenarios futuros.
 
-## •	KPI´s:  Buscamos identificar patrones de viajes, demandas, zonas y mediciones representativas en las métricas establecidas para verificar el cumplimiento de los objetivos definidos y su correspondiente fundamento.
+## JIRA
+Gracias al software Jira pudimos hacer un cronograma con las tareas que definimos llevar a cabo para ejecutar la propuesta y les asignamos roles de todos los colaboradores del equipo.
+IMAGEN DE JIRAAA
+
+# Desarrollo del Proyecto
+
+## Marco de Referencia del Proyecto
+En esta fase, se ha trabajado en la estructuración y planificación inicial del proyecto, definiendo objetivos y alcance.
+
+## Objetivos Específicos del Proyecto
+En este paso, hemos definido los objetivos específicos que guiarán nuestro trabajo.
+
+## ETL (Extract, Transform, Load)
+Realizamos la transformación y limpieza de datos de diversos archivos para garantizar calidad y representatividad. Se emplearon roles de Data Engineering para asegurar la correcta ejecución. También utilizamos diccionarios para la visualización de datos y compartimos análisis preliminares en el repositorio.
+
+## Datasets
+Definimos los conjuntos de datos a utilizar, junto con diccionarios, descripciones y documentación de las fuentes.
+1) Dataset “Taxis de la ciudad de Nueva york”.
+2) Dataset “Calidad del aire en la ciudad de Nueva York”.
+3) Dataset “Contaminación acústica en la ciudad de Nueva york”.
+
+## EDA (Exploratory Data Analysis)
+Realizamos un análisis exploratorio de datos en los tres datasets, proporcionando una visión integral del impacto de la inversión en transporte de pasajeros en Nueva York en la calidad del aire y la contaminación sonora. Se proponen KPIs para evaluar el alcance y los efectos de la inversión.
+
+## Data Engineering
+Generamos los pasos finales del ETL, documentos, diccionarios, Pipeline, diseño de modelo Entidad Relacional, Pipelines para alimentar el Data Warehouse y validación de datos. También se realizó un análisis de datos de muestra y se presentó el MVP.
+
+## Dashboard y Data Analytics
+Desarrollaremos un dashboard interactivo con los análisis propuestos y los KPIs definidos una vez que se haya completado el ETL y los datasets estén disponibles.
+
+## ## •	KPI´s:  Buscamos identificar patrones de viajes, demandas, zonas y mediciones representativas en las métricas establecidas para verificar el cumplimiento de los objetivos definidos y su correspondiente fundamento.
 
 1. Promedio de Contaminación de Aire y Acústica por viaje.
 
@@ -40,13 +68,10 @@ Nuestro objetivo principal es brindar a Greyhound información valiosa para la t
 
 4. Cantidad de Viajes en Horas Pico
 
-## Data Sets analizados:
-1) Dataset “Taxis de la ciudad de Nueva york”.
-2) Dataset “Calidad del aire en la ciudad de Nueva York”.
-3) Dataset “Contaminación acústica en la ciudad de Nueva york”.
+## Modelo de Machine Learning
+Una vez completado el análisis, se definirá e implementará el modelo de machine learning.
 
-## JIRA
-Gracias al software Jira pudimos hacer un cronograma con las tareas que definimos llevar a cabo para ejecutar la propuesta y les asignamos roles de todos los colaboradores del equipo.
-![Texto Alternativo](C:\Users\jerob\OneDrive\Escritorio\fotos jero\Imagen1.png)
+## Stack Tecnológico
+Optamos por un stack tecnológico mayormente gratuito y de fácil acceso, respaldado por nuestra amplia experiencia en la consultora.
 
 
