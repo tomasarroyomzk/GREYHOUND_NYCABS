@@ -59,7 +59,7 @@ Generamos los pasos finales del ETL, documentos, diccionarios, Pipeline, diseño
 Desarrollaremos un dashboard interactivo con los análisis propuestos y los KPIs definidos una vez que se haya completado el ETL y los datasets estén disponibles.
 
 ## •	KPI´s:  
-# Buscamos identificar patrones de viajes, demandas, zonas y mediciones representativas en las métricas establecidas para verificar el cumplimiento de los objetivos definidos y su correspondiente fundamento.
+Buscamos identificar patrones de viajes, demandas, zonas y mediciones representativas en las métricas establecidas para verificar el cumplimiento de los objetivos definidos y su correspondiente fundamento.
 
 1. Promedio de Contaminación de Aire y Acústica por viaje.
 
