@@ -29,17 +29,3 @@ Nuestro objetivo principal es brindar a Greyhound información valiosa para la t
 3. **Productos Entregables:**
    - **Dashboard Ambiental:** Crearemos un dashboard interactivo que visualice el impacto ambiental y la rentabilidad del negocio.
    - **Modelo de Machine Learning:** Desarrollaremos un modelo predictivo que permita a Greyhound anticipar escenarios futuros.
-
-## Instrucciones para Ejecutar
-
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
-2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el análisis y los scripts según las instrucciones en cada carpeta.
-
-## Contribuciones y Problemas
-
-Si encuentras algún problema o deseas contribuir, por favor abre un problema o envía una solicitud de extracción. ¡Estamos abiertos a colaboraciones y mejoras!
-
-¡Gracias por contribuir al éxito de este proyecto!
-
----
