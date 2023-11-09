@@ -29,3 +29,24 @@ Nuestro objetivo principal es brindar a Greyhound información valiosa para la t
 3. **Productos Entregables:**
    - **Dashboard Ambiental:** Crearemos un dashboard interactivo que visualice el impacto ambiental y la rentabilidad del negocio.
    - **Modelo de Machine Learning:** Desarrollaremos un modelo predictivo que permita a Greyhound anticipar escenarios futuros.
+
+## •	KPI´s:  Buscamos identificar patrones de viajes, demandas, zonas y mediciones representativas en las métricas establecidas para verificar el cumplimiento de los objetivos definidos y su correspondiente fundamento.
+
+1. Promedio de Contaminación de Aire y Acústica por viaje.
+
+2. Ratio de Viajes Personas que Toman Taxi por Viaje: Específico: Calcular la relación entre el número de personas que toman taxis y el número de viajes en las áreas donde Greyhound opera durante 2021-2022.
+
+3. Precio Promedio de Viajes en Distritos.
+
+4. Cantidad de Viajes en Horas Pico
+
+## Data Sets analizados:
+1) Dataset “Taxis de la ciudad de Nueva york”.
+2) Dataset “Calidad del aire en la ciudad de Nueva York”.
+3) Dataset “Contaminación acústica en la ciudad de Nueva york”.
+
+## JIRA
+Gracias al software Jira pudimos hacer un cronograma con las tareas que definimos llevar a cabo para ejecutar la propuesta y les asignamos roles de todos los colaboradores del equipo.
+![Texto Alternativo](C:\Users\jerob\OneDrive\Escritorio\fotos jero\Imagen1.png)
+
+
