@@ -1,4 +1,5 @@
 # Proyecto de Análisis Ambiental para Greyhound
+![Texto Alternativo](C:\Users\jerob\OneDrive\Escritorio\fotos jero\81vmJCNCm6L-1550x2048.jpg/Imagen1.png)
 
 ## Propuesta de Negocio
 
