@@ -56,18 +56,18 @@ Realizamos un análisis exploratorio de datos en los tres datasets, proporcionan
 Generamos los pasos finales del ETL, documentos, diccionarios, Pipeline, diseño de modelo Entidad Relacional, Pipelines para alimentar el Data Warehouse y validación de datos. También se realizó un análisis de datos de muestra y se presentó el MVP.
 
 ## Dashboard y Data Analytics
-Desarrollaremos un dashboard interactivo con los análisis propuestos y los KPIs definidos una vez que se haya completado el ETL y los datasets estén disponibles.
+Desarrollaremos un dashboard interactivo con los análisis propuestos y los KPIs definidos una vez que se haya completado el ETL y los datasets estén disponibles. También devolvimos conclusiones del análisis.
 
 ## •	KPI´s:  
 Buscamos identificar patrones de viajes, demandas, zonas y mediciones representativas en las métricas establecidas para verificar el cumplimiento de los objetivos definidos y su correspondiente fundamento.
 
-1. Promedio de Contaminación de Aire y Acústica por viaje.
+1. Promedio de Contaminación de Aire y Acústica por viaje, verificar si disminuye un 30% los niveles del 2022 respecto al 2021.
 
-2. Ratio de Viajes Personas que Toman Taxi por Viaje: Específico: Calcular la relación entre el número de personas que toman taxis y el número de viajes en las áreas donde Greyhound opera durante 2021-2022.
+2. Ratio de Viajes que Toman Taxi entre el año 2021 y el 2022, y revisar si hubo un aumento del 15% en Queens en el último año.
 
-3. Precio Promedio de Viajes en Distritos.
+3. Precio Promedio de Viajes en el último año 2022, ver si aumentó un 10% respecto del 2021.
 
-4. Cantidad de Viajes en Horas Pico
+4. Cantidad de Viajes en Horas Pico del último año 2022, verificar si aumentó en un 15% respecto al año 2021.
 
 ## Modelo de Machine Learning
 Se implementó un modelo de Machine Learning de Regresión Lineal, en el cuál se vincularon las variables dependientes Monóxido de Carbono, Dióxido de Azufre y Dióxido de Nitrógeno (contaminantes del aire) con la variable independiente Costo del servicio de Taxi (en USD).
