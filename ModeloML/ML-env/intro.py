@@ -10,8 +10,8 @@ st.markdown('El objetivo de esta calculadora es implementar y proveer una herram
 
 
 
-promediosAire = pd.read_csv("promediosaire.csv")
-montos_diarios = pd.read_csv("montos_diarios.csv")
+promediosAire = pd.read_csv("ModeloML/ML-env/promediosaire.csv")
+montos_diarios = pd.read_csv("ModeloML/ML-env/montos_diarios.csv")
 
 precio = st.slider('Precio por servicio en USD', 0, 80, 19)
 
