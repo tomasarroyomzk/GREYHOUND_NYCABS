@@ -71,7 +71,7 @@ Buscamos identificar patrones de viajes, demandas, zonas y mediciones representa
 
 ## Modelo de Machine Learning
 Se implementó un modelo de Machine Learning de Regresión Lineal, en el cuál se vincularon las variables dependientes Monóxido de Carbono, Dióxido de Azufre y Dióxido de Nitrógeno (contaminantes del aire) con la variable independiente Costo del servicio de Taxi (en USD).
-El modelo ejemplifica el comportamiento de los contaminantes del aire para cada valor en USD del servicio de táxi en Nueva York, este modelo se puede consumir de manera sencilla en esta calculadora[calcuadora](https://proyectogrupalhenry-mmljsfcrkxpkshzh7rwvsx.streamlit.app/)
+El modelo ejemplifica el comportamiento de los contaminantes del aire para cada valor en USD del servicio de táxi en Nueva York, este modelo se puede consumir de manera sencilla en esta [calcuadora](https://proyectogrupalhenry-mmljsfcrkxpkshzh7rwvsx.streamlit.app/)
 
 ## Stack Tecnológico
 Optamos por un stack tecnológico mayormente gratuito y de fácil acceso, respaldado por nuestra amplia experiencia en la consultora.
